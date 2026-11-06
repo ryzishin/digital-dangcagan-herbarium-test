@@ -51,7 +51,7 @@
       "funFact": "Unlike most ferns, Lygodium has climbing leaf stalks that can grow very long and wrap around other plants.",
       "collectedBy": "Kate Colline D. Pelayo",
       "dateCollected": "2026-10-17",
-      "locationCollected": "Bugwak falls"
+      "locationCollected": "Bugwak falls, Dangcagan, Bukidnon"
     },
     {
       "slug": "christella-parasitica",
@@ -77,7 +77,7 @@
       "funFact": "Despite the name 'parasitica,' this fern is NOT a parasite! It gets its name because early botanists often found it growing on decaying tree trunks, giving the false impression it was parasitic — but it makes its own food via photosynthesis.",
       "collectedBy": "Kristy Jane V. Mondoñedo, Erich Padigos",
       "dateCollected": "2026-10-17",
-      "locationCollected": "Bugwak Falls, Davao City, Bukidnon"
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     },
     {
       "slug": "nephrolepis-cordifolia",
@@ -100,7 +100,7 @@
       "funFact": "Nephrolepis cordifolia is called Tuberous Sword Fern because it produces small, round, potato-like tubers that store food and help the plant survive unfavorable conditions.",
       "collectedBy": "Well James P. Caseres",
       "dateCollected": "2026-10-17",
-      "locationCollected": "Bugwak Falls, Dunggan, Bukidnon"
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     },
     {
       "slug": "pteridium-aquilinum",
@@ -123,7 +123,7 @@
       "funFact": "Bracken fern is one of the most widespread ferns in the world and can grow in many different environments.",
       "collectedBy": "Allen Palomillo, Abegail M. Tuyor, Lord Iane M. Elloren",
       "dateCollected": "2026-10-17",
-      "locationCollected": "Bugwak Falls, Davao City, Bukidnon"
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     },
     {
       "slug": "lygodium-japonicum",
@@ -287,7 +287,7 @@
       "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     },
     {
-      "slug": "pteris-cretata",
+      "slug": "pteris-cretica",
       "name": "Cretan Brake",
       "scientificName": "Pteris cretica L.",
       "family": "Pteridaceae",
