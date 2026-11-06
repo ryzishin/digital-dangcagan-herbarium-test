@@ -310,6 +310,29 @@
       "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     },
     {
+      "slug": "angiopteris-giant-fern",
+      "name": "Giant Fern",
+      "scientificName": "Angiopteris sp.",
+      "family": "Marattiaceae",
+      "otherNames": ["Giant Fern", "King Fern", "Elephant Fern"],
+      "category": "Fern",
+      "tags": ["Fern", "Angiopteris", "Giant Fern", "Pteridophyte", "Spore-Producing Plant", "Marattiaceae"],
+      "image": "",
+      "shortDescription": "A large, green, terrestrial fern with broad, divided leaves that can grow several meters long.",
+      "description": "A large, green, terrestrial fern with broad and divided leaves that can grow several meters long. It has a thick underground stem called a rhizome. Its leaves have visible veins and sori (spore-producing structures) underneath. It is a non-flowering plant that reproduces through spores.",
+      "medicinalUses": [
+        "Some Angiopteris species have traditional medicinal uses, but the medicinal properties of this particular specimen have not been confirmed through modern medical studies."
+      ],
+      "preparation": "No established medicinal preparation. Primarily recognized as a fern species.",
+      "habitat": "Usually grows in moist, shaded, and humid environments such as tropical forests, forest floors, and areas near streams.",
+      "cultivation": "Can be grown in a warm and humid environment with fertile, moist, and well-drained soil. It grows best in partial shade and requires regular watering.",
+      "precautions": "Avoid consuming or using the plant for medicinal purposes unless its identity and safety have been properly confirmed.",
+      "funFact": "Angiopteris is known for its enormous leaves, which can reach several meters in length, making it one of the most impressive ferns in the world.",
+      "collectedBy": "Mayrl Veinne G. Ragmac",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
+    },
+    {
       "slug": "helminthostachys-zeylanica",
       "name": "Tungkod-langit",
       "scientificName": "Helminthostachys zeylanica (L.) Hook.",
