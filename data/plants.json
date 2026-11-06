@@ -26,9 +26,127 @@
       "cultivation": "Grows in moist, well-drained soil with high humidity and indirect sunlight.",
       "precautions": "Avoid excessive sunlight and waterlogging. Do not consume or use medicinally without proper identification.",
       "funFact": "Selaginella produces two types of spores: megaspores (female) and microspores (male). This is called heterospory.",
-      "collectedBy": "Vaneeza C. Morre & Valeery C. Morre",
+      "collectedBy": "Vaneeza C. Morre",
       "dateCollected": "2026-10-17",
       "locationCollected": "Bugwak falls, Dangcagan, Bukidnon"
+    },
+    {
+      "slug": "lygodium-climbing-fern",
+      "name": "Climbing Fern",
+      "scientificName": "Lygodium sp.",
+      "family": "Lygodiaceae",
+      "otherNames": ["Old World Climbing Fern"],
+      "category": "Fern",
+      "tags": ["Fern", "Green Plant", "Climbing Plant", "Spore-Producing Plant"],
+      "image": "",
+      "shortDescription": "A climbing fern with long, slender, flexible stems and green leaves divided into smaller leaflets.",
+      "description": "Lygodium is a climbing fern with long, slender, and flexible stems. It has green leaves divided into smaller leaflets. It grows by climbing and wrapping around nearby plants and supports.",
+      "medicinalUses": [
+        "Some species have been used in traditional medicine, but their safety and effectiveness are not well established."
+      ],
+      "preparation": "Clean the collected specimen gently, arrange its leaves, and press it between sheets of newspaper to preserve it.",
+      "habitat": "Commonly found in moist, shady areas, forests, grasslands, and places with nearby vegetation.",
+      "cultivation": "It grows in moist soil with partial shade and needs regular watering. It can spread through spores.",
+      "precautions": "Avoid damaging the plant unnecessarily. Do not eat or use it as medicine without proper identification and expert advice.",
+      "funFact": "Unlike most ferns, Lygodium has climbing leaf stalks that can grow very long and wrap around other plants.",
+      "collectedBy": "Kate Colline D. Pelayo",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak falls"
+    },
+    {
+      "slug": "christella-parasitica",
+      "name": "Paku-pakuan",
+      "scientificName": "Christella parasitica (L.) H. Lév.",
+      "family": "Thelypteridaceae",
+      "otherNames": ["Parasitic maiden fern", "Downy fern", "Soft fern", "Paku-lugon-lugon", "Jenabil", "Kugon-kugonan"],
+      "category": "Tropical Plant",
+      "tags": ["Fern", "Maiden Fern", "Terrestrial", "Medicinal Plant", "Native Fern", "Anti-inflammatory", "Spore-producing plant"],
+      "image": "",
+      "shortDescription": "A green, terrestrial fern with long, creeping underground stems and divided, hairy leaves that grows in moist, shaded areas.",
+      "description": "Christella parasitica is a terrestrial perennial fern growing 30–100 cm tall, with long, creeping underground stems and divided leaves. Its leaves are usually light to bright green, soft-textured, and have small hairs underneath, especially along the veins. It commonly grows in moist and shaded areas.",
+      "medicinalUses": [
+        "Gout & Rheumatism: Decoction of fronds/rhizome taken orally to reduce inflammation and joint pain",
+        "Wounds & Skin Conditions: Leaf poultice applied to wounds, burns, boils, and swelling; helps stop bleeding",
+        "Gastrointestinal: Leaf decoction used for dysentery, indigestion, and as an anthelmintic (expels intestinal worms)",
+        "Other: Used in traditional remedies for fever, urinary disorders, and as a general tonic"
+      ],
+      "preparation": "Decoction: Boil 15–30g of fresh fronds or rhizome in 2 cups of water for 10–15 minutes; drink 2–3 times daily. Poultice: Crush fresh leaves into a paste; apply directly to affected areas; change 2× daily. Hair Wash: Leaf decoction used as rinse to clean hair and treat dandruff/scalp conditions.",
+      "habitat": "It commonly grows in tropical forests, moist and shaded places, along streams, roadsides, forest edges, and open damp areas. It is widely distributed throughout the Philippines.",
+      "cultivation": "It can be grown in gardens or containers. It grows well in moist, well-drained loamy soil rich in organic matter with partial shade and a tropical environment.",
+      "precautions": "There is limited information about its safety and possible risks. Not recommended for pregnant/nursing women. Avoid consuming or applying it medicinally without consulting a qualified healthcare professional.",
+      "funFact": "Despite the name 'parasitica,' this fern is NOT a parasite! It gets its name because early botanists often found it growing on decaying tree trunks, giving the false impression it was parasitic — but it makes its own food via photosynthesis.",
+      "collectedBy": "Kristy Jane V. Mondoñedo",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Davao City, Bukidnon"
+    },
+    {
+      "slug": "nephrolepis-cordifolia",
+      "name": "Tuberous sword fern (Pako)",
+      "scientificName": "Nephrolepis cordifolia (L.) C. Presl",
+      "family": "Nephrolepidaceae",
+      "otherNames": ["Tuberous sword fern", "Fishbone fern", "Pako"],
+      "category": "Fern",
+      "tags": ["Fern", "Ornamental Plant", "Tropical Plant"],
+      "image": "",
+      "shortDescription": "A perennial fern with upright or arching green fronds and small, round tubers on its underground stems.",
+      "description": "Nephrolepis cordifolia is a perennial fern with upright or arching green fronds. Its leaves are divided into many small, narrow leaflets arranged along a central stem. It also develops small round structures called tubers on its underground stems, which help it store nutrients and reproduce.",
+      "medicinalUses": [
+        "Some traditional communities use certain fern species in herbal practices. However, the medicinal benefits and safety of Nephrolepis cordifolia are not sufficiently established."
+      ],
+      "preparation": "For herbarium preservation, the fronds are arranged between sheets of paper, pressed flat, and dried completely.",
+      "habitat": "It commonly grows in tropical and subtropical regions, including gardens, forests, grasslands, roadsides, and other areas with sufficient moisture.",
+      "cultivation": "It grows well in moist, well-drained soil and partial shade. Regular watering and a humid environment help maintain healthy growth. It can be cultivated in pots, gardens, and landscaped areas.",
+      "precautions": "Avoid eating the plant or using it as medicine without proper identification and professional guidance. It can spread through its underground tubers, so its growth should be monitored when cultivated.",
+      "funFact": "Nephrolepis cordifolia is called Tuberous Sword Fern because it produces small, round, potato-like tubers that store food and help the plant survive unfavorable conditions.",
+      "collectedBy": "Weit James P. Caseres",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dunggan, Bukidnon"
+    },
+    {
+      "slug": "pteridium-aquilinum",
+      "name": "Bracken Fern",
+      "scientificName": "Pteridium aquilinum (L.) Kuhn",
+      "family": "Dennstaedtiaceae",
+      "otherNames": ["Eagle Fern", "Southern Bracken", "Tailed Bracken"],
+      "category": "Fern",
+      "tags": ["Fern", "Bracken", "Terrestrial", "Rhizome"],
+      "image": "",
+      "shortDescription": "A perennial fern with creeping underground rhizomes and large, triangular fronds divided into many smaller leaflets.",
+      "description": "A perennial fern with creeping underground rhizomes and large, triangular fronds divided into many smaller leaflets. Mature fronds are often broadly spreading and may grow tall.",
+      "medicinalUses": [
+        "Not recommended for medicinal use because the plant contains potentially harmful compounds that may be harmful to humans and animals."
+      ],
+      "preparation": "No home preparation is recommended because the plant contains potentially harmful compounds.",
+      "habitat": "Common in open woodlands, grasslands, forest edges, and disturbed areas. It grows in different soil conditions and can form large colonies.",
+      "cultivation": "It can grow in sunny or partly shaded places and may spread vigorously.",
+      "precautions": "Do not eat or prepare this fern. It contains ptaquiloside and other compounds associated with toxicity. Avoid ingestion and handle responsibly.",
+      "funFact": "Bracken fern is one of the most widespread ferns in the world and can grow in many different environments.",
+      "collectedBy": "Allen Palomillo",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Davao City, Bukidnon"
+    },
+    {
+      "slug": "lygodium-japonicum",
+      "name": "Nito",
+      "scientificName": "Lygodium japonicum (Thunb.) Sw.",
+      "family": "Schizaeaceae",
+      "otherNames": ["Japanese climbing fern", "Old World climbing fern", "Kani-kusa", "Nito"],
+      "category": "Fern",
+      "tags": ["Fern", "climbing plant", "perennial", "spore-producing", "tropical plant"],
+      "image": "",
+      "shortDescription": "A perennial climbing fern with slender, twining stems and green, divided leaflets that can climb over nearby plants and trees.",
+      "description": "A perennial climbing fern with slender, twining stems and green, divided leaflets. It can climb over nearby plants and trees.",
+      "medicinalUses": [
+        "Traditionally used in some Asian herbal practices for urinary problems, inflammation, and wound treatment. However, its medicinal effects are not fully established in humans."
+      ],
+      "preparation": "Traditionally prepared as a herbal decoction or paste. Not recommended for home medicinal use without professional guidance.",
+      "habitat": "Commonly grows in moist forests, shaded areas, woodland edges, and along streams. Native to tropical and subtropical Asia, including the Philippines.",
+      "cultivation": "Thrives in moist soil and partial shade; spreads through spores and rhizomes and may grow aggressively.",
+      "precautions": "Avoid consumption without expert advice, do not replace prescribed medicine, and control its spread.",
+      "funFact": "Unlike most ferns, Lygodium japonicum has climbing fronds that can twine around other plants and grow several meters long.",
+      "collectedBy": "Jeany Rose D. Mendez",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     }
   ]
 }
