@@ -311,10 +311,10 @@
     },
     {
       "slug": "helminthostachys-zeylanica",
-      "name": "Tungkod-langit", // Note: local name provided in card often conflicts in reality, but using as given
+      "name": "Tungkod-langit",
       "scientificName": "Helminthostachys zeylanica (L.) Hook.",
       "family": "Ophioglossaceae",
-      "otherNames": ["Lagundi", "Five-Leaved Chaste Tree", "Horseshoe Vitex"],
+      "otherNames": ["Five-Leaved Chaste Tree", "Horseshoe Vitex"],
       "category": "Medicinal Herb",
       "tags": ["Terrestrial Fern", "Primitive Plant", "Ancient Monotypic Genus", "Medicinal Herb"],
       "image": "https://file.garden/aqIMQWk-0Kfpc-nh/Messenger_creation_07617AAB-A677-43B5-A193-0A590C4F1ADB.jpeg",
