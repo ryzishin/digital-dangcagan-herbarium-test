@@ -262,6 +262,52 @@
       "collectedBy": "Xhajnyn Zyche O. Ngoho",
       "dateCollected": "2026-10-17",
       "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
+    },
+    {
+      "slug": "tectaria-polymorpha",
+      "name": "Polymorphic Fern",
+      "scientificName": "Tectaria polymorpha",
+      "family": "Tectariaceae",
+      "otherNames": ["Polymorphic Halberd Fern"],
+      "category": "Medicinal Fern / Terrestrial Fern",
+      "tags": ["Fern", "Terrestrial Plant", "Tropical Fern"],
+      "image": "",
+      "shortDescription": "A medium-sized terrestrial fern with clustered fronds and leaves that vary in shape from simple to deeply divided.",
+      "description": "Medium-sized terrestrial fern with clustered fronds. Leaves vary in shape, from simple to deeply divided, with pointed tips. Spores grow in clusters underneath the leaves.",
+      "medicinalUses": [
+        "Traditional medicinal uses are not well documented. Further studies are needed to establish its medicinal properties."
+      ],
+      "preparation": "No scientifically established medicinal preparation. Avoid consuming without proper guidance.",
+      "habitat": "Moist forests, shaded slopes, rocky areas, and forest valleys in tropical regions, including the Philippines.",
+      "cultivation": "Propagate through spores or rhizome division. Grows best in moist, well-drained soil and shaded areas.",
+      "precautions": "Avoid consuming or using medicinally without proper identification and safety information.",
+      "funFact": "The name polymorpha means \"many forms,\" referring to the different shapes of its fronds.",
+      "collectedBy": "Abegail M. Tuyor",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
+    },
+    {
+      "slug": "adiantum-capillus-veneris",
+      "name": "Venus Fern",
+      "scientificName": "Adiantum capillus-veneris",
+      "family": "Pteridaceae",
+      "otherNames": ["Venus's-hair fern", "Southern maidenhair fern", "Black maidenhair fern"],
+      "category": "Perennial fern",
+      "tags": ["PerennialFern", "Maidenhair", "ShadePlant", "OrnamentalFoliage", "Pteridaceae"],
+      "image": "",
+      "shortDescription": "A delicate, perennial fern with thin, bright-green, fan-shaped leaflets attached to wiry, dark-brown or black stems.",
+      "description": "A delicate, perennial fern growing 6 to 24 inches tall. It features thin, bright-green, fan-shaped leaflets attached to distinctive, wiry, dark-brown or black stems.",
+      "medicinalUses": [
+        "Historically used in traditional herbal medicine to make syrups or teas aimed at treating respiratory issues, promoting hair health, and cleansing the urinary system."
+      ],
+      "preparation": "Traditionally prepared by drying the fronds/leaves and infusing them into warm water as a herbal tea or boiling them down into a thick medicinal syrup.",
+      "habitat": "Thrives in moist, shaded limestone rock formations, damp cliff seeps, riverbanks, and waterfalls.",
+      "cultivation": "Requires a shaded or filtered light environment, highly humid conditions, consistently damp well-draining humus-rich soil. Must not be allowed to dry out completely.",
+      "precautions": "Highly sensitive to drafty winds, harsh direct sunlight, and dry soil conditions. It is non-toxic to pets but physically fragile.",
+      "funFact": "Its genus name, Adiantum, comes from the Greek word meaning \"unwetted,\" because its smooth leaflets have a water-repellent surface that allows droplets to slide right off without soaking the plant.",
+      "collectedBy": "Jasxam Floana Mary P. Dela Cerna",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     }
   ]
 }
