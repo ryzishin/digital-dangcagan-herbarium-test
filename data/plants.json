@@ -26,7 +26,7 @@
       "cultivation": "Grows in moist, well-drained soil with high humidity and indirect sunlight.",
       "precautions": "Avoid excessive sunlight and waterlogging. Do not consume or use medicinally without proper identification.",
       "funFact": "Selaginella produces two types of spores: megaspores (female) and microspores (male). This is called heterospory.",
-      "collectedBy": "Vaneeza C. Morre, Valeery C. Morre",
+      "collectedBy": "Vaneeza C. Morre, Valeery C. Morre, Jona Rose Abad",
       "dateCollected": "2026-10-17",
       "locationCollected": "Bugwak falls, Dangcagan, Bukidnon"
     },
@@ -237,6 +237,29 @@
       "precautions": "Avoid consuming or using it medicinally without verified safety information. Handle carefully and protect its natural habitat.",
       "funFact": "Ferns like Microsorum punctatum can grow without soil by attaching their roots to rocks or tree trunks, allowing them to thrive in natural forest environments.",
       "collectedBy": "Antonia Angelique D. Flauta",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
+    },
+    {
+      "slug": "diplazium-subserratum",
+      "name": "Serrated Fern",
+      "scientificName": "Diplazium subserratum (Blume) T.Moore",
+      "family": "Aspleniaceae",
+      "otherNames": ["Diplazium Fern"],
+      "category": "Fern",
+      "tags": ["Fern", "Tropical Plant", "Non-flowering Plant", "Moisture-loving Plant"],
+      "image": "https://file.garden/aqIMQWk-0Kfpc-nh/Messenger_creation_D06FBD40-5C2F-4E98-94B2-0749D9F43D90.jpeg",
+      "shortDescription": "A perennial fern with divided leaves arranged along a central stalk and slightly toothed leaflets.",
+      "description": "A perennial fern with divided leaves arranged along a central stalk. Its leaflets have slightly toothed edges and a green to brown color when dried.",
+      "medicinalUses": [
+        "No well-established medicinal use specifically documented for this species."
+      ],
+      "preparation": "No established medicinal preparation. Primarily recognized as a fern species.",
+      "habitat": "Grows in moist tropical environments, particularly in shaded areas near streams and damp forest slopes.",
+      "cultivation": "Prefers moist, well-drained soil, shaded areas, and a humid environment. Regular watering is recommended.",
+      "precautions": "Avoid using the plant medicinally without proper identification and reliable safety information.",
+      "funFact": "This fern belongs to a diverse group of plants that reproduce through spores instead of flowers and seeds.",
+      "collectedBy": "Xhajnyn Zyche O. Ngoho",
       "dateCollected": "2026-10-17",
       "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     }
