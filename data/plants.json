@@ -2,7 +2,7 @@
   "meta": {
     "title": "Dangcagan NHS Digital Herbarium",
     "subtitle": "A QR Code-Enhanced Herbal Plant Collection",
-    "lastUpdated": "2025-09-07",
+    "lastUpdated": "2026-11-06",
     "version": "1.0.0"
   },
   "plants": [
@@ -168,6 +168,75 @@
       "precautions": "Avoid using the plant as medicine without proper guidance. Keep it away from areas where it may be accidentally damaged or eaten by pets.",
       "funFact": "Nephrolepis biserrata is also called Giant Sword Fern because its long, sword-shaped fronds can grow up to several meters in length.",
       "collectedBy": "Marianne J. Ancis, Lhyza Luardo",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
+    },
+    {
+      "slug": "pteris-sp",
+      "name": "Brake Fern",
+      "scientificName": "Pteris sp.",
+      "family": "Pteridaceae",
+      "otherNames": ["Brake Fern", "Common Brake"],
+      "category": "Ornamental Plant",
+      "tags": ["Fern", "Pteridaceae", "Spore-Producing plant", "Ornamental and Terrestrial Plant"],
+      "image": "",
+      "shortDescription": "A tropical fern with delicate, feather-like green fronds that reproduces through spores instead of seeds or flowers.",
+      "description": "A tropical fern with delicate, feather-like green fronds. It reproduces through spores instead of seeds or flowers.",
+      "medicinalUses": [
+        "No established medicinal uses are confirmed for this unidentified Pteris species. Mainly valued as an ornamental plant."
+      ],
+      "preparation": "No established medicinal preparation. Not recommended for consumption.",
+      "habitat": "Grows in moist and shaded environments, commonly found in forest areas, grassy places, and near rocks.",
+      "cultivation": "Grows best in moist soil and partially shaded area with sufficient humidity and good drainage.",
+      "precautions": "Avoid consuming the plant without proper identification. Protect its natural habitat and avoid unnecessary collection.",
+      "funFact": "Unlike flowering plants, ferns reproduce through tiny spores instead of seeds. Their beautiful divided leaves are called fronds.",
+      "collectedBy": "Ashly Rose C. Colaljo",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak falls, Dangcagan, Bukidnon"
+    },
+    {
+      "slug": "nephrolepis-exaltata",
+      "name": "Nephrolepis",
+      "scientificName": "Nephrolepis exaltata",
+      "family": "Nephrolepidaceae",
+      "otherNames": ["Boston Fern", "Sword Fern"],
+      "category": "Non-flowering vascular plant",
+      "tags": ["Fern", "Spore-producing plant", "Tropical plant", "Ornamental plant"],
+      "image": "",
+      "shortDescription": "A green fern with long, feather-like fronds, commonly grown as an ornamental plant in tropical and subtropical regions.",
+      "description": "Nephrolepis is a green fern with long, narrow leaves arranged in a feather-like pattern. Its leaves are called fronds and are divided into smaller leaflets. It has fibrous roots and a short underground stem called a rhizome. It grows in moist and shady areas, such as forests and gardens. It does not produce flowers or seeds but reproduces through spores. It is commonly used as an ornamental plant for decoration.",
+      "medicinalUses": [
+        "Nephrolepis has no scientifically proven medicinal uses and is mainly grown as an ornamental plant."
+      ],
+      "preparation": "No established medicinal preparation. Not recommended for consumption.",
+      "habitat": "Nephrolepis grows in moist, shady, and humid environments, such as forests, gardens, and areas near streams. It commonly thrives in tropical and subtropical regions.",
+      "cultivation": "Nephrolepis grows in moist soil with partial shade and regular watering. It thrives in humid environments and can be propagated through spores or root division. It can also spread through runners called stolons.",
+      "precautions": "Nephrolepis is generally safe to touch, but avoid eating any part of the plant. Wash your hands after handling it and keep it away from children and pets.",
+      "funFact": "Nephrolepis is an ancient group of ferns that existed millions of years ago. It reproduces through spores instead of seeds. Its leaves are called fronds, and the tiny clusters of spores underneath them are called sori.",
+      "collectedBy": "Jamaica Angelique O. Deocades",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
+    },
+    {
+      "slug": "microsorum-punctatum",
+      "name": "Wart Fern",
+      "scientificName": "Microsorum punctatum (L.) Copel.",
+      "family": "Polypodiaceae",
+      "otherNames": ["Wart Fern", "Fishtail Fern", "Climbing Bird's-nest Fern"],
+      "category": "Ornamental Plant",
+      "tags": ["Fern", "Tropical Plant", "Epiphyte", "Spore-Producing Plant", "Ornamental Plant"],
+      "image": "",
+      "shortDescription": "A tropical fern with simple, elongated, light-green leaves and a creeping rhizome that reproduces through spores.",
+      "description": "A tropical fern with simple, elongated, light-green leaves. Its leaves are smooth, slightly wavy along the edges, and grow from a creeping rhizome. It does not produce flowers or seeds but reproduces through spores.",
+      "medicinalUses": [
+        "No well-established medicinal uses. Mainly used as an ornamental plant."
+      ],
+      "preparation": "No established medicinal preparation. Not recommended for consumption.",
+      "habitat": "Grows in moist, shaded environments, usually on rocks and tree trunks.",
+      "cultivation": "Grows best in shaded areas with high humidity and moist, well-drained growing conditions.",
+      "precautions": "Avoid consuming or using it medicinally without verified safety information. Handle carefully and protect its natural habitat.",
+      "funFact": "Ferns like Microsorum punctatum can grow without soil by attaching their roots to rocks or tree trunks, allowing them to thrive in natural forest environments.",
+      "collectedBy": "Antonia Angelique D. Flauta",
       "dateCollected": "2026-10-17",
       "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     }
