@@ -282,32 +282,56 @@
       "cultivation": "Propagate through spores or rhizome division. Grows best in moist, well-drained soil and shaded areas.",
       "precautions": "Avoid consuming or using medicinally without proper identification and safety information.",
       "funFact": "The name polymorpha means \"many forms,\" referring to the different shapes of its fronds.",
-      "collectedBy": "Abegail M. Tuyor",
+      "collectedBy": "Elaine Villabito",
       "dateCollected": "2026-10-17",
       "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     },
     {
-      "slug": "adiantum-capillus-veneris",
-      "name": "Venus Fern",
-      "scientificName": "Adiantum capillus-veneris",
+      "slug": "pteris-cretata",
+      "name": "Cretan Brake",
+      "scientificName": "Pteris cretica L.",
       "family": "Pteridaceae",
-      "otherNames": ["Venus's-hair fern", "Southern maidenhair fern", "Black maidenhair fern"],
-      "category": "Perennial fern",
-      "tags": ["PerennialFern", "Maidenhair", "ShadePlant", "OrnamentalFoliage", "Pteridaceae"],
+      "otherNames": ["Cretan Brake"],
+      "category": "Plant Specimen",
+      "tags": ["Plant Specimen"],
       "image": "",
-      "shortDescription": "A delicate, perennial fern with thin, bright-green, fan-shaped leaflets attached to wiry, dark-brown or black stems.",
-      "description": "A delicate, perennial fern growing 6 to 24 inches tall. It features thin, bright-green, fan-shaped leaflets attached to distinctive, wiry, dark-brown or black stems.",
+      "shortDescription": "A perennial fern with short-creeping rhizomes and green fronds divided into narrow, elongated segments called pinnae.",
+      "description": "Pteris cretica is a perennial fern with short-creeping rhizomes and green fronds. Its leaves are divided into narrow, elongated segments called pinnae. The lower pinnae may be further divided, and the plant reproduces through spores rather than seeds.",
       "medicinalUses": [
-        "Historically used in traditional herbal medicine to make syrups or teas aimed at treating respiratory issues, promoting hair health, and cleansing the urinary system."
+        "Traditional medicinal uses of Pteris cretica have been reported in some plant-use references. However, further scientific research is needed to establish its safety and effectiveness."
       ],
-      "preparation": "Traditionally prepared by drying the fronds/leaves and infusing them into warm water as a herbal tea or boiling them down into a thick medicinal syrup.",
-      "habitat": "Thrives in moist, shaded limestone rock formations, damp cliff seeps, riverbanks, and waterfalls.",
-      "cultivation": "Requires a shaded or filtered light environment, highly humid conditions, consistently damp well-draining humus-rich soil. Must not be allowed to dry out completely.",
-      "precautions": "Highly sensitive to drafty winds, harsh direct sunlight, and dry soil conditions. It is non-toxic to pets but physically fragile.",
-      "funFact": "Its genus name, Adiantum, comes from the Greek word meaning \"unwetted,\" because its smooth leaflets have a water-repellent surface that allows droplets to slide right off without soaking the plant.",
-      "collectedBy": "Jasxam Floana Mary P. Dela Cerna",
+      "preparation": "Pteris cretica reproduces through spores rather than seeds. Its spores develop in structures called sporangia, which are arranged along the margins of fertile leaf segments.",
+      "habitat": "It commonly grows in moist and shaded environments, including forests, riverbanks, stream banks, and rocky areas.",
+      "cultivation": "It grows well in partially shaded areas with moist, well-drained soil.",
+      "precautions": "Do not consume wild plant specimens without proper identification and expert guidance. Plants growing in contaminated soil may accumulate arsenic in their tissues.",
+      "funFact": "Pteris cretica is an arsenic hyperaccumulator. It can absorb and accumulate arsenic from contaminated soil, making it useful for scientific research on phytoremediation.",
+      "collectedBy": "Jasmine D. Sabado",
+      "dateCollected": "2026-10-17",
+      "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
+    },
+    {
+      "slug": "helminthostachys-zeylanica",
+      "name": "Tungkod-langit", // Note: local name provided in card often conflicts in reality, but using as given
+      "scientificName": "Helminthostachys zeylanica (L.) Hook.",
+      "family": "Ophioglossaceae",
+      "otherNames": ["Lagundi", "Five-Leaved Chaste Tree", "Horseshoe Vitex"],
+      "category": "Medicinal Herb",
+      "tags": ["Terrestrial Fern", "Primitive Plant", "Ancient Monotypic Genus", "Medicinal Herb"],
+      "image": "",
+      "shortDescription": "An ancient, herbaceous terrestrial fern with a fleshy underground stem, a tripartite sterile frond, and a prominent erect fertile spike.",
+      "description": "An ancient, herbaceous terrestrial fern growing between 15–40 cm tall. It features a unique fleshy underground stem (rhizome) that produces a distinctive tripartite (three-parted) sterile leafy frond and a separate, prominent erect fertile spike bearing spore clusters.",
+      "medicinalUses": [
+        "Traditionally used in folk medicine to alleviate asthma, chronic coughs, respiratory conditions, and early-stage tuberculosis.",
+        "Applied topically to treat snakebites, cuts, bone fractures, and minor inflammatory skin conditions."
+      ],
+      "preparation": "The rhizomes are harvested, thoroughly cleaned, and used either fresh or sun-dried. For respiratory ailments, dried rhizomes are typically boiled in water to make a decoction (tea). For wounds or snakebites, fresh rhizomes are crushed into a paste and applied directly to the skin.",
+      "habitat": "Thrives best in damp, shaded environments, including low-elevation forest floors, thickets, moist riverbanks, and swamp edges where the soil contains high humus content.",
+      "cultivation": "Difficult to propagate or establish artificially. It is primarily wild-harvested and relies on undisturbed, damp, free-draining forest microclimates to naturally regenerate from its underground rhizomes.",
+      "precautions": "Wild plants can contain compounds like thiaminase or potential toxins. Always cook thoroughly if consumed as a wild vegetable, and consult a professional before internal medicinal use. Over-harvesting has also rendered it rare and vulnerable in many natural habitats.",
+      "funFact": "Despite being called a \"Flowering Fern,\" it doesn't actually produce real flowers! The \"flower\" is actually a primitive, fertile spore-bearing spike (sporophore) that sticks straight up into the air, looking like a tiny staff — giving it the Tagalog name \"Tilos\" (a large staff or club of bamboo).",
+      "collectedBy": "Van Axl F. Espinella",
       "dateCollected": "2026-10-17",
       "locationCollected": "Bugwak Falls, Dangcagan, Bukidnon"
     }
   ]
-}
+    }
